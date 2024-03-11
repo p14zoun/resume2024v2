@@ -25,7 +25,7 @@ function Hero() {
           </p>
 
           <div className="flex justify-center items-center h-full mb-8">
-            <a href="www.linkedin.com/in/zoungouridis">
+            <a href="https://www.linkedin.com/in/zoungouridis/">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="24"
