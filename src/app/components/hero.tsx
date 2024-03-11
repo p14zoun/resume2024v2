@@ -17,7 +17,7 @@ function Hero() {
           </div> */}
           <h1 className="text-5xl font-bold text-green-500">Hey!</h1>
           <h1 id="typing-effect" className="text-5xl font-bold">
-            I'm Panagiotis
+            I am Panagiotis
           </h1>
           <p className="py-6 text-xl text-gray-400">
             I am a Frontend developer with experience in quality assurance and
