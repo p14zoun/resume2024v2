@@ -21,7 +21,7 @@ function Hero() {
           </h1>
           <p className="py-6 text-xl text-gray-400">
             I am a Frontend developer with experience in quality assurance and
-            testing. Fluent in English and Greek. Based in Luleå.
+            testing. Fluent in English and Greek. Based in Luleå, Sweden.
           </p>
 
           <div className="flex justify-center items-center h-full mb-8">
