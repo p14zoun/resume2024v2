@@ -20,7 +20,7 @@ function Hero() {
             I am Panagiotis
           </h1>
           <p className="py-6 text-xl text-gray-400">
-            I am a Frontend developer with experience in quality assurance and
+            A frontend developer with experience in quality assurance and
             testing. Fluent in English and Greek. Based in Luleå, Sweden.
           </p>
 
